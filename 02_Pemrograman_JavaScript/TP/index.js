@@ -1,4 +1,4 @@
-const arr1 = [2,-99999999, 26, 28, -2]; //inifinit glitch mone🤑
+const arr1 = [2,-99999999, 26, 28, -2]; //inifinit mone glitch🤑
 
 function mulOfArray(arr) {
     let result = 1;
