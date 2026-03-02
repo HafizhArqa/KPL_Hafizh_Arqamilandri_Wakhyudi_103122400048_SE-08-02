@@ -1,0 +1,20 @@
+{
+  "name": "kpl_hafizh_arqamilandri_wakhyudi_103122400048_se-08-02",
+  "version": "1.0.0",
+  "description": "Praktikum_KPL",
+  "homepage": "https://github.com/HafizhArqa/KPL_Hafizh_Arqamilandri_Wakhyudi_103122400048_SE-08-02#readme",
+  "bugs": {
+    "url": "https://github.com/HafizhArqa/KPL_Hafizh_Arqamilandri_Wakhyudi_103122400048_SE-08-02/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HafizhArqa/KPL_Hafizh_Arqamilandri_Wakhyudi_103122400048_SE-08-02.git"
+  },
+  "license": "ISC",
+  "author": "Hafizh Arqamilandri Wakhyudi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
