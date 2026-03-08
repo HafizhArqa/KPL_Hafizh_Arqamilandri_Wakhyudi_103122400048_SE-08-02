@@ -5,9 +5,10 @@ Buatlah sebuah fungsi bernama fizzBuzz yang menerima input larik (array) dan men
 
 **Kode sumber**
 
-Tersedia di C:\Users\hafiz\KPL_Hafizh_Arqamilandri_Wakhyudi_103122400048_SE-08-02\02_Pemrograman_JavaScript\TM\test.js
+Tersedia di 
+[test.js](test.js)
 
-C:\Users\hafiz\KPL_Hafizh_Arqamilandri_Wakhyudi_103122400048_SE-08-02\02_Pemrograman_JavaScript\TM\tm.js
+[tm.js](tm.js)
 
 **Output**
 
