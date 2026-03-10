@@ -1,4 +1,4 @@
-# Tugas Pendahuluan 02: Pemrograman JavaScript
+# Tugas Pendahuluan 03: Pemrograman GUI dengan HTML dan CSS
 **Soal**
 
 Buatlah tata letak laman yang kamu buat berada di tengah seperti di bawah ini, dan juga ubah font-nya dengan Inconsolata dari Google Fonts.
