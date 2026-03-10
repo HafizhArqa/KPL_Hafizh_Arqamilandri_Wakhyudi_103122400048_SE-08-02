@@ -1,0 +1,17 @@
+body {
+            font-family: 'Inconsolata', monospace; /* ni buat implementasi Google font */
+            padding-top: 50px;
+            background-color: #f0f0f0;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+.kotak-input {
+    display: block;
+    resize: none;
+}
+
+p > span {
+    color: coral; /* atau juga bisa pakai kode hex-nya, #FF7F50 */
+    font-weight: bold;
+}
