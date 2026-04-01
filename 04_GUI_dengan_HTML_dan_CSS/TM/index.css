@@ -1,0 +1,52 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    padding-top: 50px;
+    background-color: #f0f0f0;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    transition: all 0.3s ease; 
+}
+
+.kotak-input {
+    display: block;
+    resize: none;
+}
+
+p > span {
+    color: coral;
+    font-weight: bold;
+}
+
+
+body.dark-mode {
+    background-color: #171b25;
+    color: #EBECF7;
+}
+
+body.dark-mode textarea {
+    background-color: #2e3443;
+    color: #EBECF7;
+}
+
+body.dark-mode button {
+    background-color: #29ddcc;
+    color: #000;
+}
+
+textarea {
+    background-color: #ffffff;
+    color: #000;
+}
+
+
+body.sepia-mode {
+    background-color: #F4ECD8;
+    color: #5B4636;
+}
+
+
+body.sepia-mode button {
+    background-color: #D6C3A3;
+    color: #5B4636;
+}
