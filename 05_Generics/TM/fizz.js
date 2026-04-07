@@ -1,8 +1,8 @@
 /**
- * Mengubah angka menjadi "Fizz", "Buzz", "FizzBuzz", atau angka itu sendiri.
- * @param {number} value - Bilangan bulat.
+ * 
+ * @param {number} value 
  * @returns {number | string}
- * @throws {Error} Jika input bukan bilangan bulat.
+ * @throws {Error} 
  */
 function zzzzOrNum(value) {
     if (!Number.isInteger(value)) {
@@ -25,17 +25,17 @@ function zzzzOrNum(value) {
 }
 
 /**
- * Mengubah array angka dengan aturan FizzBuzz.
- * @param {number[]} sequence - Array berisi bilangan bulat.
+ * 
+ * @param {number[]} sequence 
  * @returns {(number | string)[]}
- * @throws {Error} Jika input bukan array atau elemennya bukan bilangan bulat.
+ * @throws {Error} 
  */
 function fizzBuzz(sequence) {
     if (!Array.isArray(sequence)) {
         throw new Error("Input harus berupa array");
     }
 
-    // validasi semua elemen harus integer
+  
     sequence.forEach((e) => {
         if (!Number.isInteger(e)) {
             throw new Error("Semua elemen harus bilangan bulat");
