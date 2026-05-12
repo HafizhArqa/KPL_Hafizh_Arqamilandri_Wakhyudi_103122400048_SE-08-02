@@ -1,0 +1,9 @@
+{
+  "name": "hitung-teks",
+  "version": "1.0.0",
+  "description": "Library untuk menghitung jumlah huruf dan kata",
+  "main": "index.js",
+  "author": "testt",
+  "license": "ISC",
+  "type": "module"
+}

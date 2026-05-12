@@ -1,0 +1,14 @@
+{
+  "name": "mtk-gampang",
+  "version": "1.0.0",
+  "description": "Pustaka matematika sederhana untuk perpangkatan, pembulatan, dan akar kuadrat",
+  "main": "index.js",
+  "type": "module",
+  "author": "Hafizh",
+  "license": "ISC",
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    }
+  }
+}
